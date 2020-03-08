@@ -2,18 +2,18 @@ body {
 	font-family: arial;
 }
 #div2{
-	width: 1200px;
+	width: 1000px;
 	height: 40px;
 	background-color: black;
 }
 #top{
-	width: 1200px;
+	width: 1000px;
 	height: 150px;
 	background-color: lightblue;
 	text-align: left
 }
 #top #left {
-	width: 800px;
+	width: 650px;
 	height: 150px;
 	background-color: lightblue;
 	margin: 0px;
@@ -30,8 +30,14 @@ body {
 	border: 1px solid black;
 	text-align: center;
 }
+#main {
+	width: 1000px;
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+}
 #main #left{
-	width: 897px;
+	width: 697px;
 	border-top: 1px solid black;
 	float: left;
 	margin: 0px;
